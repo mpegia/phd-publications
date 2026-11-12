@@ -25,18 +25,6 @@ Finally, in the video domain, our empirical and linguistic analysis diagnoses th
 
 **Keywords:** Multimedia Information Retrieval, Multimodal Fusion Strategies, Structural Representations, Spatiotemporal Metadata, Content-Based Image Retrieval, 3D Object Retrieval, Text-to-Video Retrieval
 
-
-### Cite This Thesis
-```bibtex
-@phdthesis{pegia2026modalities,
-  title  = {Modalities and Representations in Media Retrieval},
-  author = {Pegia, Maria-Eirini},
-  school = {Reykjavik University},
-  year   = {2026},
-  month  = dec,
-  url    = {[https://github.com/mpegia/phd-publications](https://github.com/mpegia/phd-publications)}
-}
-
 ## Appended Publications
 
 This thesis is based on the following published articles and articles currently under review (all BibTeX entries are available in [`publications.bib`](publications.bib)):
@@ -97,3 +85,14 @@ The following publications were completed during my PhD studies, but are not inc
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 The thesis, slides and publication metadata in this repository are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+### Cite This Thesis
+```bibtex
+@phdthesis{pegia2026modalities,
+  title  = {Modalities and Representations in Media Retrieval},
+  author = {Pegia, Maria-Eirini},
+  school = {Reykjavik University},
+  year   = {2026},
+  month  = dec,
+  url    = {[https://github.com/mpegia/phd-publications](https://github.com/mpegia/phd-publications)}
+}
