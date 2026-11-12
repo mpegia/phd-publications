@@ -31,27 +31,27 @@ This thesis is based on the following published articles and articles currently 
 
 - **[A] BiasHash: A Bayesian Hashing Framework for Image Retrieval**  
   Maria-Eirini Pegia, Anastasia Moumtzidou, Ilias Gialampoukidis, Björn Þór Jónsson, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)*, pp. 1–5, IEEE, June 2022 · [[BibTeX](publications.bib)]
+  *2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)*, pp. 1–5, IEEE, June 2022 · [[DOI](https://doi.org/10.1109/IVMSP54334.2022.9816233)] · [[BibTeX](publications.bib)]
 
 - **[B] MuseHash: Supervised Bayesian Hashing for Multimodal Image Representation**  
   Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval (ICMR)*, pp. 434–442, June 2023 · [[BibTeX](publications.bib)]
+  *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval (ICMR)*, pp. 434–442, June 2023 · [[DOI](https://doi.org/10.1145/3591106.3592228)] · [[BibTeX](publications.bib)]
 
 - **[C] Multimodal 3D Object Retrieval**  
   Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *International Conference on Multimedia Modeling (MMM)*, pp. 188–201, Cham: Springer Nature Switzerland, January 2024 · [[BibTeX](publications.bib)]
+  *International Conference on Multimedia Modeling (MMM)*, pp. 188–201, Cham: Springer Nature Switzerland, January 2024 · [[DOI](https://doi.org/10.1007/978-3-031-53302-0_14)] · [[BibTeX](publications.bib)]
 
 - **[D] Descriptor Impact on Multimodal 3D Retrieval**  
   Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *2024 International Conference on Content-Based Multimedia Indexing (CBMI)*, pp. 1–7, IEEE, September 2024 · [[BibTeX](publications.bib)]
+  *2024 International Conference on Content-Based Multimedia Indexing (CBMI)*, pp. 1–7, IEEE, September 2024 · [[DOI](https://doi.org/10.1109/CBMI62980.2024.10859199)] · [[BibTeX](publications.bib)]
 
 - **[E] 3DMSE: An Interactive 3D Media Search Engine**  
   Maria-Eirini Pegia, Dimitris Georgalis, Nick Pantelidis, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR)*, pp. 1260–1264, May 2024 · [[BibTeX](publications.bib)]
+  *Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR)*, pp. 1260–1264, May 2024 · [[DOI](https://doi.org/10.1145/3652583.3657593)] · [[BibTeX](publications.bib)]
 
 - **[F] Understanding the Performance Plateau in Text-to-Video Retrieval: A Comprehensive Empirical and Linguistic Analysis**  
   Maria-Eirini Pegia, Dimitrios Stefanopoulos, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *Multimedia Tools and Applications (MTAP)*, 2026 (Submitted) · [[BibTeX](publications.bib)]
+  *Multimedia Tools and Applications (MTAP)*, 2026 (Submitted) [[DOI](https://doi.org/10.48550/arXiv.2605.00826)] · [[BibTeX](publications.bib)]
 
 - **[G] Semantically-Guided Multimodal Fusion for Text-to-Video Retrieval**  
   Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
@@ -65,26 +65,26 @@ The following publications were completed during my PhD studies, but are not inc
 
 - **BiasUNet: Learning Change Detection over Sentinel-2 Image Pairs**  
   Maria-Eirini Pegia, Anastasia Moumtzidou, Ilias Gialampoukidis, Björn Þór Jónsson, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *Proceedings of the 19th International Conference on Content-Based Multimedia Indexing (CBMI)*, pp. 142–148, 2022 · [[BibTeX](publications.bib)]
+  *Proceedings of the 19th International Conference on Content-Based Multimedia Indexing (CBMI)*, pp. 142–148, 2022 · [[DOI](https://doi.org/10.1145/3549555.3549574)] · [[BibTeX](publications.bib)]
 
 - **Time-Quality Tradeoff of MuseHash Query Processing Performance**  
   Maria-Eirini Pegia, Ferran Agullo Lopez, Anastasia Moumtzidou, Alberto Gutierrez-Torre, Björn Þór Jónsson, Josep Lluís Berral García, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *International Conference on Multimedia Modeling (MMM)*, pp. 270–283, Cham: Springer Nature Switzerland, 2024 · [[BibTeX](publications.bib)]
+  *International Conference on Multimedia Modeling (MMM)*, pp. 270–283, Cham: Springer Nature Switzerland, 2024 · [[DOI](https://doi.org/10.1007/978-3-031-53311-2_20)] · [[BibTeX](publications.bib)]
 
 - **Comparative Analysis of Learning-Based Approaches for Change Detection in Satellite Images**  
   Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (GRSS)*, 18, 3766–3781, 2024 · [[BibTeX](publications.bib)]
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (GRSS)*, 18, 3766–3781, 2024 · [[DOI](https://doi.org/10.1109/JSTARS.2024.3522350)] · [[BibTeX](publications.bib)]
 
 - **Learning Perceptual Hash Similarity for Image Copy Detection**  
   Maria-Eirini Pegia, Dimitrios Stefanopoulos, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
-  *International Conference on Content-Based Multimedia Indexing (CBMI)*, 2026 · [[BibTeX](publications.bib)]
+  *International Conference on Content-Based Multimedia Indexing (CBMI)*, 2026 [[DOI](https://doi.org/10.5281/zenodo.21102917)] · [[BibTeX](publications.bib)]
 
 ---
 
 ## License
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
-The thesis, slides and publication metadata in this repository are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+The thesis, slides, and publication metadata in this repository are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
 
 ### Cite This Thesis
 ```bibtex
