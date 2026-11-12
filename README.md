@@ -25,6 +25,7 @@ Finally, in the video domain, our empirical and linguistic analysis diagnoses th
 
 **Keywords:** Multimedia Information Retrieval, Multimodal Fusion Strategies, Structural Representations, Spatiotemporal Metadata, Content-Based Image Retrieval, 3D Object Retrieval, Text-to-Video Retrieval
 
+
 ### Cite This Thesis
 ```bibtex
 @phdthesis{pegia2026modalities,
@@ -35,3 +36,64 @@ Finally, in the video domain, our empirical and linguistic analysis diagnoses th
   month  = dec,
   url    = {[https://github.com/mpegia/phd-publications](https://github.com/mpegia/phd-publications)}
 }
+
+## Appended Publications
+
+This thesis is based on the following published articles and articles currently under review (all BibTeX entries are available in [`publications.bib`](publications.bib)):
+
+- **[A] BiasHash: A Bayesian Hashing Framework for Image Retrieval**  
+  Maria-Eirini Pegia, Anastasia Moumtzidou, Ilias Gialampoukidis, Björn Þór Jónsson, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP)*, pp. 1–5, IEEE, June 2022 · [[BibTeX](publications.bib)]
+
+- **[B] MuseHash: Supervised Bayesian Hashing for Multimodal Image Representation**  
+  Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *Proceedings of the 2023 ACM International Conference on Multimedia Retrieval (ICMR)*, pp. 434–442, June 2023 · [[BibTeX](publications.bib)]
+
+- **[C] Multimodal 3D Object Retrieval**  
+  Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *International Conference on Multimedia Modeling (MMM)*, pp. 188–201, Cham: Springer Nature Switzerland, January 2024 · [[BibTeX](publications.bib)]
+
+- **[D] Descriptor Impact on Multimodal 3D Retrieval**  
+  Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *2024 International Conference on Content-Based Multimedia Indexing (CBMI)*, pp. 1–7, IEEE, September 2024 · [[BibTeX](publications.bib)]
+
+- **[E] 3DMSE: An Interactive 3D Media Search Engine**  
+  Maria-Eirini Pegia, Dimitris Georgalis, Nick Pantelidis, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR)*, pp. 1260–1264, May 2024 · [[BibTeX](publications.bib)]
+
+- **[F] Understanding the Performance Plateau in Text-to-Video Retrieval: A Comprehensive Empirical and Linguistic Analysis**  
+  Maria-Eirini Pegia, Dimitrios Stefanopoulos, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *Multimedia Tools and Applications (MTAP)*, 2026 (Submitted) · [[BibTeX](publications.bib)]
+
+- **[G] Semantically-Guided Multimodal Fusion for Text-to-Video Retrieval**  
+  Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *European Conference on Information Retrieval (ECIR)*, 2027 (Submitted) · [[BibTeX](publications.bib)]
+
+---
+
+## Other Publications
+
+The following publications were completed during my PhD studies, but are not included in this thesis as their content is not directly related to the research presented herein:
+
+- **BiasUNet: Learning Change Detection over Sentinel-2 Image Pairs**  
+  Maria-Eirini Pegia, Anastasia Moumtzidou, Ilias Gialampoukidis, Björn Þór Jónsson, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *Proceedings of the 19th International Conference on Content-Based Multimedia Indexing (CBMI)*, pp. 142–148, 2022 · [[BibTeX](publications.bib)]
+
+- **Time-Quality Tradeoff of MuseHash Query Processing Performance**  
+  Maria-Eirini Pegia, Ferran Agullo Lopez, Anastasia Moumtzidou, Alberto Gutierrez-Torre, Björn Þór Jónsson, Josep Lluís Berral García, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *International Conference on Multimedia Modeling (MMM)*, pp. 270–283, Cham: Springer Nature Switzerland, 2024 · [[BibTeX](publications.bib)]
+
+- **Comparative Analysis of Learning-Based Approaches for Change Detection in Satellite Images**  
+  Maria-Eirini Pegia, Björn Þór Jónsson, Anastasia Moumtzidou, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (GRSS)*, 18, 3766–3781, 2024 · [[BibTeX](publications.bib)]
+
+- **Learning Perceptual Hash Similarity for Image Copy Detection**  
+  Maria-Eirini Pegia, Dimitrios Stefanopoulos, Björn Þór Jónsson, Anastasia Moumtzidou, Sotiris Diplaris, Ilias Gialampoukidis, Stefanos Vrochidis & Ioannis Kompatsiaris  
+  *International Conference on Content-Based Multimedia Indexing (CBMI)*, 2026 · [[BibTeX](publications.bib)]
+
+---
+
+## License
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
+The thesis, slides and publication metadata in this repository are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
